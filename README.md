@@ -1,6 +1,6 @@
 <!-- c++ logo not proper, social media links brokn-->
 
-<p align="center"><img src="giphy (1).gif" width="100%"> </p>
+<p align="center"><img src="giphy (1).gif" width="100%"> 
  
 
  #                          <p align="center"> Hey, I'm BAGUVIX </p>
@@ -14,9 +14,11 @@
 
 #### My repositories: <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BAGUVIX456&repo=Advent_of_Code&show_owner=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+<br> 
 
 I'm on [![gmail][1.2]][1] 
+
+</p>
 
 <!--icons-->
 
