@@ -1,7 +1,5 @@
-- Hi, I’m @BAGUVIX456
-- I’m interested in Computer Science, Mathematics and Procrastinating
-- I’m currently learning the Rust Programming Language!
-- My E-mail: saberdan02@gmail.com. I might be late to respond.
+# Hi, I'm BAGUVIX
+I am a dorky teenager interested in Mathematics, Computer Science, and Procrastination.
 
 <!---
 BAGUVIX456/BAGUVIX456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
