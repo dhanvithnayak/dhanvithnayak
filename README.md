@@ -1,6 +1,6 @@
 <!-- c++ logo not proper, social media links brokn-->
 
-<p align="center"><img src="giphy (1).gif" width="100%"> 
+<img src="giphy (1).gif" width="100%"> 
  
 
  #                          <p align="center"> Hey, I'm BAGUVIX </p>
@@ -8,7 +8,7 @@
 <font face="times new roman"> I am a dorky teenager interested in **Mathematics, Computer Science,** and **Procrastination**. I also (*try to*) produce electronic music. </font> <br><br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAGUVIX456&theme=radical&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAGUVIX456&theme=radical&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAGUVIX456&theme=radical&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) </p>
 
 <br>
 
@@ -17,8 +17,6 @@
 <br> 
 
 I'm on [![gmail][1.2]][1] 
-
-</p>
 
 <!--icons-->
 
