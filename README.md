@@ -1,3 +1,5 @@
+<!-- c++ logo not proper, social media links brokn-->
+
 <img src="virus.gif" height="200">
 
  #                           Hey, I'm BAGUVIX
@@ -24,11 +26,11 @@
 
 I'm on [![gmail][1.2]][1] 
 
-<!--icons>
+<!--icons-->
 
 [1.2]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimilarpng.com%2Fgmail-logo-design-on-transparent-background-png%2F&psig=AOvVaw3TtiNuE_TJ2KLhcxlFqByY&ust=1647167136320000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDq6YSuwPYCFQAAAAAdAAAAABAD
 
-<!--links>
+<!--links-->
 
 [1]: saberdan02@gmail.com
 
