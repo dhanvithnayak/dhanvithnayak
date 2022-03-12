@@ -5,7 +5,7 @@
 
  #                          <p align="center"> Hey, I'm BAGUVIX </p>
  
-<font face="times new roman"> I am a dorky teenager interested in **Mathematics, Computer Science,** and **Procrastinating**. I also (*try to*) produce electronic music. </font> <br><br>
+<font face="times new roman"> I am a dorky teenager interested in **Mathematics, Computer Science,** and **Procrastination**. I also (*try to*) produce electronic music. </font> <br><br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAGUVIX456&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAGUVIX456&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
