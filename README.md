@@ -1,6 +1,6 @@
 <!-- c++ logo not proper, social media links brokn-->
 
-<p align="center"><img src="giphy.gif" width="100%"> </p>
+<p align="center"><img src="giphy (1).gif" width="100%"> </p>
  
 
  #                          <p align="center"> Hey, I'm BAGUVIX </p>
