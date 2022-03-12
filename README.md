@@ -1,17 +1,17 @@
 <img src="virus.gif" height="200">
 
  #                           Hey, I'm BAGUVIX
- ![shield](https://img.shields.io/badge/OS-Windows-informational?logo=windows&color=000080)
- ![shield](https://img.shields.io/badge/Code-Rust-informational?logo=rust&color=000080)
- ![shield](https://img.shields.io/badge/Code-Python-informational?logo=python&color=000080)
- ![shield](https://img.shields.io/badge/Code-C++-informational?logo=c++&color=000080)
- ![shield](https://img.shields.io/badge/Code-Java-informational?logo=java&color=000080)
- ![shield](https://img.shields.io/badge/Editor-VS_Code-informational?logo=visualstudiocode&color=000080)
- ![shield](https://img.shields.io/badge/Editor-PyCharm-informational?logo=pycharm&color=000080)
- ![shield](https://img.shields.io/badge/Editor-Eclipse_IDE-informational?logo=eclipseide&color=000080)
- ![shield](https://img.shields.io/badge/Editor-Visual_Studio-informational?logo=visualstudio&color=000080)
+ ![shield](https://img.shields.io/badge/OS-Windows-informational?logo=windows&color=66ff00)
+ ![shield](https://img.shields.io/badge/Code-Rust-informational?logo=rust&color=66ff00)
+ ![shield](https://img.shields.io/badge/Code-Python-informational?logo=python&color=66ff00)
+ ![shield](https://img.shields.io/badge/Code-C++-informational?logo=c++&color=66ff00)
+ ![shield](https://img.shields.io/badge/Code-Java-informational?logo=java&color=66ff00)
+ ![shield](https://img.shields.io/badge/Editor-VS_Code-informational?logo=visualstudiocode&color=66ff00)
+ ![shield](https://img.shields.io/badge/Editor-PyCharm-informational?logo=pycharm&color=66ff00)
+ ![shield](https://img.shields.io/badge/Editor-Eclipse_IDE-informational?logo=eclipseide&color=66ff00)
+ ![shield](https://img.shields.io/badge/Editor-Visual_Studio-informational?logo=visualstudio&color=66ff00)
  
-<font face="times new roman"> I am a dorky teenager interested in Mathematics, Computer Science, and Procrastinating. I also (try to) produce electronic music. </font> <br><br>
+<font face="times new roman"> I am a dorky teenager interested in **Mathematics, Computer Science,** and **Procrastinating**. I also (*try to*) produce electronic music. </font> <br><br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAGUVIX456&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAGUVIX456)](https://github.com/anuraghazra/github-readme-stats)
