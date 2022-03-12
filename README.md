@@ -1,6 +1,6 @@
 <!-- c++ logo not proper, social media links brokn-->
 
-<p align="center"><img src="virus.gif" height="200"> </p>
+<p align="center"><img src="giphy.gif" height="200"> </p>
  
 
  #                          <p align="center"> Hey, I'm BAGUVIX </p>
