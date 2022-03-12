@@ -1,27 +1,19 @@
 <!-- c++ logo not proper, social media links brokn-->
 
-<img src="virus.gif" height="200">
+<p align="center"><img src="virus.gif" height="200"> </p>
+ 
 
- #                           Hey, I'm BAGUVIX
- ![shield](https://img.shields.io/badge/OS-Windows-informational?logo=windows&color=66ff00)
- ![shield](https://img.shields.io/badge/Code-Rust-informational?logo=rust&color=66ff00)
- ![shield](https://img.shields.io/badge/Code-Python-informational?logo=python&color=66ff00)
- ![shield](https://img.shields.io/badge/Code-C++-informational?logo=c++&color=66ff00)
- ![shield](https://img.shields.io/badge/Code-Java-informational?logo=java&color=66ff00)
- ![shield](https://img.shields.io/badge/Editor-VS_Code-informational?logo=visualstudiocode&color=66ff00)
- ![shield](https://img.shields.io/badge/Editor-PyCharm-informational?logo=pycharm&color=66ff00)
- ![shield](https://img.shields.io/badge/Editor-Eclipse_IDE-informational?logo=eclipseide&color=66ff00)
- ![shield](https://img.shields.io/badge/Editor-Visual_Studio-informational?logo=visualstudio&color=66ff00)
+ #                          <p align="center"> Hey, I'm BAGUVIX </p>
  
 <font face="times new roman"> I am a dorky teenager interested in **Mathematics, Computer Science,** and **Procrastinating**. I also (*try to*) produce electronic music. </font> <br><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAGUVIX456&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAGUVIX456)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAGUVIX456&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAGUVIX456&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
 #### My repositories: <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BAGUVIX456&repo=Advent_of_Code&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BAGUVIX456&repo=Advent_of_Code&show_owner=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 I'm on [![gmail][1.2]][1] 
