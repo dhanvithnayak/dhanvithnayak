@@ -8,7 +8,7 @@
 I am a dorky teenager interested in **Mathematics, Computer Science,** and **Procrastination**. I also (*try to*) produce electronic music. <br><br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAGUVIX456&theme=radical&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAGUVIX456&theme=radical&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAGUVIX456&theme=radical&show_icons=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
