@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="giphy (1).gif" height="230">
+  <img src="cyclops.gif" height="230">
 </p>
 
 # <p align="center"> Hey, I'm BAGUVIX </p>
