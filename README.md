@@ -4,7 +4,7 @@
 
 # <p align="center"> Hey, I'm BAGUVIX </p>
  
-I'm a dorky teenager interested in **Mathematics, Computer Science,** and **Procrastination**. I also (*try to*) produce electronic music. <br><br>
+I'm a dorky teenager interested in **Computer Science, Mathematics** and **Procrastination**. I also (*try to*) produce electronic music. <br><br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BAGUVIX456&theme=radical&show_icons=true&hide_border=true" height="200">
