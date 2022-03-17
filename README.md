@@ -17,7 +17,7 @@ I'm a dorky teenager interested in **Computer Science, Mathematics** and **Procr
   </a>    
 <br><br>
 
-<u>Hook me up on,</u> <br>
+<u>Contact me on:</u> <br>
 **Gmail**: saberdan02@gmail.com <br>
 **Discord**: contact me for Discord tag
 
