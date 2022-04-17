@@ -12,9 +12,13 @@ I'm a dorky teenager interested in **Computer Science, Mathematics** and **Procr
 </p> <br>
 
 ### My repositories: <br>
-  <a href="https://github.com/BAGUVIX456/Advent_of_Code">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BAGUVIX456&repo=Advent_of_Code&show_owner=true&theme=radical&hide_border=true">
-  </a>    
+  <a href="https://github.com/BAGUVIX456/advent-of-code">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BAGUVIX456&repo=advent-of-code&show_owner=true&theme=radical&hide_border=true">
+  </a>
+  
+  <a href="https://github.com/BAGUVIX456/sudoku-solver">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BAGUVIX456&repo=sudoku-solver&show_owner=true&theme=radical&hide_border=true">
+  </a>
 <br><br>
 
 <u>Contact me on:</u> <br>
