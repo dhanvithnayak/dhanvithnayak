@@ -22,8 +22,7 @@ I'm just a random guy interested in Computer Science, Mathematics and Procrastin
 <br><br>
 
 <u>Contact me on:</u> <br>
-**Gmail**: saberdan02@gmail.com <br>
-**Discord**: contact me for Discord tag
+**Gmail**: dhanpran3@gmail.com <br>
 
 <hr>
 
