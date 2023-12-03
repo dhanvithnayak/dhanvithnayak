@@ -2,7 +2,7 @@
   <img src="cyclops.gif" height="230">
 </p>
 
-# <p align="center"> Hey, I'm BAGUVIX </p>
+# <p align="center"> Hello there, I'm Dhanvith </p>
  
 I'm just a random guy interested in Computer Science, Mathematics and Procrastination. I also (*try to*) produce electronic music. <br><br>
 
