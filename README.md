@@ -12,16 +12,14 @@ I'm just a random guy interested in Computer Science, Mathematics and Procrastin
 </p> <br>
 
 ### My repositories: <br>
+  <a href="https://github.com/BAGUVIX456/sudoku-dlx">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BAGUVIX456&repo=sudoku-dlx&show_owner=true&theme=radical&hide_border=true">
+  </a>
   <a href="https://github.com/BAGUVIX456/advent-of-code">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BAGUVIX456&repo=advent-of-code&show_owner=true&theme=radical&hide_border=true">
   </a>
-  
   <a href="https://github.com/BAGUVIX456/sudoku-solver">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BAGUVIX456&repo=sudoku-solver&show_owner=true&theme=radical&hide_border=true">
-  </a>
-
-  <a href="https://github.com/BAGUVIX456/sudoku-dlx">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BAGUVIX456&repo=sudoku-dlx&show_owner=true&theme=radical&hide_border=true">
   </a>
 <br><br>
 
