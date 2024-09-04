@@ -4,7 +4,7 @@
 
 # <p align="center"> Hello there, I'm Dhanvith </p>
  
-I'm just a random guy interested in Computer Science, Mathematics and Procrastination. I also (*try to*) produce electronic music. <br><br>
+I'm just a random guy interested in Computer Science and Mathematics. I also (*try to*) produce electronic music. <br><br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BAGUVIX456&theme=radical&show_icons=true&hide_border=true" height="200">
