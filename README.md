@@ -25,8 +25,3 @@ I'm just a random guy interested in Computer Science and Mathematics. I also (*t
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhanvithnayak&repo=imvue.nvim&show_owner=true&theme=radical&hide_border=true">
   </a>
 </div>
-
-<br><br>
-
-<u>Contact:</u> <br>
-**Gmail**: dhanpran3@kgpian.iitkgp.ac.in <br>
